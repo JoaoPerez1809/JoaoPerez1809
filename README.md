@@ -1,6 +1,6 @@
 - 👋 Hi, I’m João Perez
-- 👀 I’m interested in PHP and Java
-- 🌱 I’m currently learning many languages like PHP/Laravel, Java, Python and Javascript
+- 👀 I’m interested in C# and Java
+- 🌱 I’m currently learning many languages like PHP/Laravel, Java, C#,Python and Javascript
 - 📫 How to reach me joaovitorps1809@gmail.com
 - 😄 Pronouns: he/him
 
