@@ -171,13 +171,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi there! 👋
 
-# Hi there! 👋
-
 I'm **João Perez** — a Back-end-focused .NET Developer (C#, ASP.NET Core) building scalable solutions and reliable APIs. 💻
 
 Tagline: Building robust back-end systems with performance, maintainability and scalability in mind. 🚀
-
-## About Me
 
 ## About Me
 
@@ -196,8 +192,6 @@ I enjoy designing back-end architectures, optimizing database interactions, and 
 ## Skills & Technologies
 
 dotnet,cs,ts,nodejs,php,py,html,css,git,github,vercel
-
-## Top Projects
 
 ## Top Projects
 
@@ -231,8 +225,6 @@ dotnet,cs,ts,nodejs,php,py,html,css,git,github,vercel
 
 (These are the most representative projects from my account — a mix of back-end (C#, .NET), TypeScript web work and supporting utilities.)
 
-## GitHub Stats
-
 ## GitHub Stats 📊
 
 - Public repositories: **15**
@@ -249,8 +241,6 @@ Badges & stats images:
 
 (These cards update automatically — great for showing contribution and language highlights.)
 
-## Recent Activity
-
 ## Recent Activity 🔔
 
 Here are some of my most recent GitHub events:
@@ -261,16 +251,12 @@ Here are some of my most recent GitHub events:
 
 (You can see more activity on my GitHub profile activity feed.)
 
-## Latest Blog Posts
-
 ## Latest Blog Posts 📝
 
 - No public blog posts were found on the GitHub profile or a personal blog URL was not provided.
 - For articles or longer posts, please check my LinkedIn: [João Perez - LinkedIn](https://www.linkedin.com/in/joaoperez-dev)
 
 (If you have a preferred blog or articles to share, I can include them here.)
-
-## Connect with Me
 
 ## Connect with Me 🤝
 
