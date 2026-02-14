@@ -50,18 +50,11 @@ Sou um desenvolvedor versátil e apaixonado por tecnologia. Acredito que a lingu
 
 ### 📊 Estatísticas (Dashboard)
 
-<div align="center">
-  <a href="https://github.com/JoaoPerez1809">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPerez1809&show_icons=true&theme=radical&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPerez1809&layout=compact&theme=radical"/>
-  </a>
-</div>
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoPerez1809&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoPerez1809&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoPerez1809&theme=radical) |
+| :-: | :-: | :-: |
 
-<div align="center">
-  <a href="https://github.com/JoaoPerez1809">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPerez1809&theme=radical&hide_border=false"/>
-  </a>
-</div>
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoPerez1809&theme=radical) | ![](https://streak-stats.demolab.com?user=JoaoPerez1809&theme=radical&hide_border=false) |
+| :-: | :-: |
 
 ---
 
