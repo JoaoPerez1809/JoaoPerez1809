@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
---->
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -166,3 +166,120 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
+--->
+
+
+## Hi there! 👋
+
+# Hi there! 👋
+
+I'm **João Perez** — a Back-end-focused .NET Developer (C#, ASP.NET Core) building scalable solutions and reliable APIs. 💻
+
+Tagline: Building robust back-end systems with performance, maintainability and scalability in mind. 🚀
+
+## About Me
+
+## About Me
+
+- Name: João Perez
+- Role: .NET Developer (C# · ASP.NET Core · SQL Server)
+- Location: Sorocaba, Brazil 📍
+
+Bio: 💻 .NET Developer | C# | ASP.NET Core | SQL Server. Focado em desenvolvimento Back-end e criação de soluções escaláveis.
+
+I enjoy designing back-end architectures, optimizing database interactions, and delivering reliable production-ready APIs. I'm active on GitHub (projects range from donation systems to chatbots and forum platforms) and maintain a presence on LinkedIn.
+
+### Currently
+- Working on: the DoacaoMariaClaro donation system (full-stack project with TypeScript frontend + back-end integrations) 🛠️
+- Learning / Improving: advanced back-end patterns, scalable deployments and CI/CD for .NET services ☁️
+
+## Skills & Technologies
+
+dotnet,cs,ts,nodejs,php,py,html,css,git,github,vercel
+
+## Top Projects
+
+## Top Projects
+
+1. [DoacaoMariaClaro](https://github.com/JoaoPerez1809/DoacaoMariaClaro) 🔗
+   - Projeto: Sistema de doação para o instituto Maria Claro
+   - Description: Projeto para desenvolver um sistema de doação para o instituto Maria Claro.
+   - Stars: ⭐ 1 · Forks: 🍴 2
+   - Primary language: TypeScript
+   - Homepage: https://doacao-maria-claro.vercel.app
+
+2. [forum](https://github.com/JoaoPerez1809/forum) 🔗
+   - Projeto: Plataforma de fórum/community
+   - Description: (PHP) Forum project with a larger codebase — used for learning full-stack/web architecture.
+   - Stars: ⭐ 0 · Forks: 🍴 0 · Size: 23,085 KB
+   - Primary language: PHP
+
+3. [ModelagemPadraoesProjeto](https://github.com/JoaoPerez1809/ModelagemPadraoesProjeto) 🔗
+   - Projeto: Exemplos de modelagem e padrões de projeto aplicados em C#
+   - Stars: ⭐ 0 · Forks: 🍴 0
+   - Primary language: C# · Size: 5,517 KB
+
+4. [AMS5_ChatBot](https://github.com/JoaoPerez1809/AMS5_ChatBot) 🔗
+   - Projeto: Chatbot / automação em Python
+   - Stars: ⭐ 0 · Forks: 🍴 0
+   - Primary language: Python
+
+5. [JoaoPerez1809 (profile repo)](https://github.com/JoaoPerez1809/JoaoPerez1809) 🔗
+   - Projeto: Config files for my GitHub profile
+   - Stars: ⭐ 0 · Forks: 🍴 0
+   - Primary language: — (configuration)
+
+(These are the most representative projects from my account — a mix of back-end (C#, .NET), TypeScript web work and supporting utilities.)
+
+## GitHub Stats
+
+## GitHub Stats 📊
+
+- Public repositories: **15**
+- Followers: **0**
+- Following: **1**
+
+Badges & stats images:
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPerez1809&show_icons=true&theme=default)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPerez1809&layout=compact&theme=default)
+- ![Followers](https://img.shields.io/github/followers/JoaoPerez1809?label=Followers&style=flat)
+- ![Following](https://img.shields.io/github/following/JoaoPerez1809?label=Following&style=flat)
+- ![Repos](https://img.shields.io/badge/repositories-15-blue)
+
+(These cards update automatically — great for showing contribution and language highlights.)
+
+## Recent Activity
+
+## Recent Activity 🔔
+
+Here are some of my most recent GitHub events:
+
+- Push to [JoaoPerez1809/JoaoPerez1809](https://github.com/JoaoPerez1809/JoaoPerez1809) — 2026-02-14T17:10:43Z (updated profile repo / config) 🚀
+- Push to [JoaoPerez1809/JoaoPerez1809](https://github.com/JoaoPerez1809/JoaoPerez1809) — 2026-02-14T17:06:39Z (recent commits)
+- Started watching [RyuunosukeDS3/ragnarok-latam-linux-guide](https://github.com/RyuunosukeDS3/ragnarok-latam-linux-guide) — 2026-02-03T01:56:05Z
+
+(You can see more activity on my GitHub profile activity feed.)
+
+## Latest Blog Posts
+
+## Latest Blog Posts 📝
+
+- No public blog posts were found on the GitHub profile or a personal blog URL was not provided.
+- For articles or longer posts, please check my LinkedIn: [João Perez - LinkedIn](https://www.linkedin.com/in/joaoperez-dev)
+
+(If you have a preferred blog or articles to share, I can include them here.)
+
+## Connect with Me
+
+## Connect with Me 🤝
+
+- GitHub: [JoaoPerez1809](https://github.com/JoaoPerez1809) 🧑‍💻
+- LinkedIn: [João Perez](https://www.linkedin.com/in/joaoperez-dev) 💼
+
+Social badges:
+
+- ![GitHub](https://img.shields.io/badge/GitHub-@JoaoPerez1809-181717?logo=github&style=flat)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)
+
+If you'd like to collaborate or talk about back-end engineering, scalable APIs, or open roles — feel free to reach out via LinkedIn or open an issue/PR on a relevant repo. 🔧
