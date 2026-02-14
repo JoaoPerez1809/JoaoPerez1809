@@ -1,21 +1,34 @@
 # Olá, eu sou o João Perez! 👋
 
-**Desenvolvedor .NET (C#) | Focado em Back-end & APIs Escaláveis** 📍 *Sorocaba, SP - Brasil*
+**Desenvolvedor de Software Multiplataforma | Back-end & Full-stack** 📍 *Sorocaba, SP - Brasil*
 
-Sou um desenvolvedor apaixonado por construir sistemas robustos e performáticos. Meu foco principal é o ecossistema **.NET (C#)**, mas tenho experiência full-stack criando soluções completas.
+Sou um desenvolvedor versátil e apaixonado por tecnologia. Acredito que a linguagem é apenas uma ferramenta para resolver problemas. Tenho experiência construindo soluções robustas utilizando diversas stacks como **Python**, **Java**, **PHP** e o ecossistema **.NET**.
 
 ### 🚀 Atualmente
-- 🛠️ Desenvolvendo o **DoacaoMariaClaro** (Sistema completo de doações).
-- 📚 Aprofundando conhecimentos em **Arquitetura de Software** e **CI/CD**.
+- 🛠️ Atuei no desenvolvimento do **DoacaoMariaClaro** (Sistema completo de doações).
+- 📚 Explorando novas arquiteturas, Cloud Computing e padrões de projeto em diferentes linguagens.
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Arsenal de Tecnologias
+
+**Linguagens Principais:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Web & Front-end:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Banco de Dados & Ferramentas:**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -24,19 +37,29 @@ Sou um desenvolvedor apaixonado por construir sistemas robustos e performáticos
 1. **[DoacaoMariaClaro](https://github.com/JoaoPerez1809/DoacaoMariaClaro)** Sistema de doação para o Instituto Maria Claro.  
    *Tech: TypeScript, Full-stack web.*
 
-2. **[ModelagemPadraoesProjeto](https://github.com/JoaoPerez1809/ModelagemPadraoesProjeto)** Implementação de Design Patterns e boas práticas de modelagem.  
+2. **[AMS5_TradeHolding](https://github.com/beejaaj/AMS5_TradeHolding)** Sistema de Gestão de Criptomoedas.  
    *Tech: C#.*
 
-3. **[AMS5_ChatBot](https://github.com/JoaoPerez1809/AMS5_ChatBot)** Chatbot para automação e atendimento.  
-   *Tech: Python.*
+3. **[ModelagemPadroesProjeto](https://github.com/JoaoPerez1809/ModelagemPadraoesProjeto)** Implementação de Design Patterns e boas práticas de modelagem.  
+   *Tech: C#.*
+
+4. **[Fórum](https://github.com/JoaoPerez1809/forum)** Desenvolvimento de um Fórum de discussões (Projeto Acadêmico - FATEC).  
+   *Tech: PHP/Laravel.*
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas (Dashboard)
+
 <div align="center">
   <a href="https://github.com/JoaoPerez1809">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPerez1809&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoPerez1809&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPerez1809&show_icons=true&theme=radical&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPerez1809&layout=compact&theme=radical"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/JoaoPerez1809">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPerez1809&theme=radical&hide_border=false"/>
   </a>
 </div>
 
